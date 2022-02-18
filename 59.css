@@ -1,0 +1,8 @@
+li:nth-child(odd)
+{
+color:red;
+}
+li
+{
+color:green;
+}
